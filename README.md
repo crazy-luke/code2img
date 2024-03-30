@@ -29,6 +29,7 @@ In case you want to test the project code, you can do it like this:
 
 ## About
 The project was inspired by Crazy-Luke, with GPT completing the code writing.
+
 项目由 疯狂豆Luke 提供思路，GPT 完成代码编写。 
 
 [视频中的 Prompts](./prompts.md)
