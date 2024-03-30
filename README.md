@@ -1,6 +1,6 @@
 # Code2Img
 
-`Code2Img`  Extension can convert code in VSCode into pictures.  
+`Code2Img` VSCode Extension can convert code into image.  
 `Code2Img` 插件可以将 VSCode 中的代码转成图片。
 
 
